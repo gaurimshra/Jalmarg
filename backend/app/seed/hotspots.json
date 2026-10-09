@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Minto Bridge Underpass",
+    "latitude": 28.6328,
+    "longitude": 77.2289,
+    "baseline_risk": 75.0,
+    "current_risk": 85.0,
+    "risk_level": "CRITICAL",
+    "is_simulated": true,
+    "source_kind": "DEMO SCENARIO"
+  },
+  {
+    "id": 2,
+    "name": "ITO Intersection",
+    "latitude": 28.6277,
+    "longitude": 77.2405,
+    "baseline_risk": 60.0,
+    "current_risk": 65.0,
+    "risk_level": "HIGH",
+    "is_simulated": true,
+    "source_kind": "DEMO SCENARIO"
+  },
+  {
+    "id": 3,
+    "name": "Pul Prahladpur Underpass",
+    "latitude": 28.5020,
+    "longitude": 77.2941,
+    "baseline_risk": 80.0,
+    "current_risk": 80.0,
+    "risk_level": "HIGH",
+    "is_simulated": true,
+    "source_kind": "DEMO SCENARIO"
+  },
+  {
+    "id": 4,
+    "name": "Zakhira Flyover",
+    "latitude": 28.6657,
+    "longitude": 77.1652,
+    "baseline_risk": 40.0,
+    "current_risk": 45.0,
+    "risk_level": "MODERATE",
+    "is_simulated": true,
+    "source_kind": "DEMO SCENARIO"
+  },
+  {
+    "id": 5,
+    "name": "Gurugram Expressway IFFCO Chowk",
+    "latitude": 28.4727,
+    "longitude": 77.0725,
+    "baseline_risk": 55.0,
+    "current_risk": 55.0,
+    "risk_level": "MODERATE",
+    "is_simulated": true,
+    "source_kind": "DEMO SCENARIO"
+  },
+  {
+    "id": 6,
+    "name": "Subroto Park",
+    "latitude": 28.5801,
+    "longitude": 77.1517,
+    "baseline_risk": 15.0,
+    "current_risk": 15.0,
+    "risk_level": "LOW",
+    "is_simulated": true,
+    "source_kind": "DEMO SCENARIO"
+  },
+  {
+    "id": 7,
+    "name": "Dhaula Kuan",
+    "latitude": 28.5878,
+    "longitude": 77.1594,
+    "baseline_risk": 30.0,
+    "current_risk": 30.0,
+    "risk_level": "LOW",
+    "is_simulated": true,
+    "source_kind": "DEMO SCENARIO"
+  },
+  {
+    "id": 8,
+    "name": "Rajiv Chowk Underpass",
+    "latitude": 28.6315,
+    "longitude": 77.2167,
+    "baseline_risk": 20.0,
+    "current_risk": 20.0,
+    "risk_level": "LOW",
+    "is_simulated": true,
+    "source_kind": "DEMO SCENARIO"
+  }
+]

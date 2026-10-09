@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic-settings
+python-dotenv
+python-multipart
+Pillow
+ImageHash
+httpx
+strands-agents
+pytest
+pytest-asyncio
+respx
+shapely

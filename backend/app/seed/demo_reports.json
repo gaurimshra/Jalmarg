@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "hotspot_id": 1,
+    "description": "Heavy waterlogging under Minto Bridge. Traffic completely halted.",
+    "latitude": 28.6329,
+    "longitude": 77.2290,
+    "trust_score": 0.9,
+    "verification_status": "VERIFIED",
+    "water_detected": true,
+    "severity": "HIGH",
+    "depth_min_cm": 50.0,
+    "depth_max_cm": 80.0,
+    "depth_confidence": 0.85,
+    "analysis_source": "Gemini 1.5 Pro",
+    "source_kind": "DEMO SCENARIO",
+    "is_simulated": true
+  },
+  {
+    "id": 2,
+    "hotspot_id": 2,
+    "description": "Water starting to accumulate at ITO.",
+    "latitude": 28.6278,
+    "longitude": 77.2406,
+    "trust_score": 0.7,
+    "verification_status": "PENDING_ADDITIONAL_EVIDENCE",
+    "water_detected": null,
+    "severity": null,
+    "source_kind": "DEMO SCENARIO",
+    "is_simulated": true
+  },
+  {
+    "id": 3,
+    "hotspot_id": 6,
+    "description": "I think there is some water here.",
+    "latitude": 28.5802,
+    "longitude": 77.1518,
+    "trust_score": 0.2,
+    "verification_status": "REJECTED_LOW_TRUST",
+    "water_detected": false,
+    "severity": "NONE",
+    "source_kind": "DEMO SCENARIO",
+    "is_simulated": true
+  }
+]
